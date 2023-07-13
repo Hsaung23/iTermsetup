@@ -1,5 +1,5 @@
 # Installation
-These are the iTerm2 setup I used for Mac Air 13.6" M2 Chip
+iTerm2 setup I used for Mac Air 13.6" M2 Chip
 
 ## iTerm
 
