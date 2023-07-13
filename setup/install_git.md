@@ -21,4 +21,4 @@ brew install git
 ```
 And boom it will be showing like this
 
-![brewgit](Documents/brewgit.png)
+<img src="brewgit.png" alt="brewgit" width="400"/>
