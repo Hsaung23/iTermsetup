@@ -22,6 +22,7 @@ It allows users to easily access and install software that may not be readily av
 **Installing apps from Homebrew is generally considered safe although we have to keep in mind that no software ecosystem is entirely immune to potential vulnerabilities.** 
 
 `homebrew install`
+
 Open `Terminal` on Mac (Spotlight shortcut F4) 
 
 Paste the following command and press return
