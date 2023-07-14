@@ -12,7 +12,7 @@ git --version
 ```
 if it shows `git version blah blah blah` then, it is already installed.
 
-if it doesn't we need to install it, ***Remember, we should do it on Terminal 'cause it is NICE***
+if it doesn't we need to install it. ***Remember, we should do it on Terminal 'cause it is NICE***
 
 Since, we have the Brew -- we will be using the following command line 
 
